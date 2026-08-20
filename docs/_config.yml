@@ -11,3 +11,5 @@ show_excerpts: true
 exclude:
   - "*.java"
   - "*.class"
+  - README.md          # internal: working agreement
+  - POST-TEMPLATE.md   # internal: authoring spec

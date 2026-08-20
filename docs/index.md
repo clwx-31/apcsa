@@ -3,7 +3,41 @@ layout: home
 title: AP CSA Notebook
 ---
 
-Daily notes from AP Computer Science A — the concepts from each lesson, the
-code we wrote, and the errors worth remembering.
+Daily notes from AP Computer Science A. Every class day gets a full write-up:
+every concept from the lesson, a line-by-line walkthrough of the code, the
+errors we actually hit, vocabulary, and practice questions with answers.
 
-Every entry covers the full lesson, including the basics.
+**Written so someone who missed class can catch up completely.** If you're
+stuck on an assignment, the walkthrough sections explain not just what the
+code does but why each piece is there.
+
+## Start here
+
+New to the course? Read [Day 1]({{ site.baseurl }}/notes/2026/08/20/day-01-output-and-escape-sequences.html)
+top to bottom. It assumes nothing.
+
+## Concepts so far
+
+| Concept | Where |
+|---|---|
+| Setting up and running Java (`javac`, `java`) | Day 1, Part 1 |
+| Class declarations and `public` | Day 1, Part 2 |
+| The `main` method, word by word | Day 1, Part 2 |
+| Statements, semicolons, braces | Day 1, Part 2 |
+| The file-name rule | Day 1, Part 3 |
+| `System.out.print` vs `println` | Day 1, Part 4 |
+| String literals | Day 1, Part 5 |
+| Escape sequences `\n` `\t` `\"` `\\` `\'` | Day 1, Part 6 |
+| Comments | Day 1, Part 7 |
+| Reading `ClassNotFoundException` | Day 1, Part 10 |
+
+## How each post is laid out
+
+Objectives → setup → one section per concept → the project with a
+statement-by-statement walkthrough → debugging log → common mistakes →
+vocabulary → self-check questions.
+
+Skip to whichever part you need. The walkthrough and debugging sections are
+the ones worth reading twice.
+
+## All entries
