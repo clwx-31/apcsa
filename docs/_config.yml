@@ -1,0 +1,13 @@
+# Site content settings -- owned by content work.
+title: AP CSA Notebook
+description: Daily notes from AP Computer Science A. Concepts, code, and the bugs along the way.
+lang: en
+
+# --- Presentation settings below: safe for Codex to change ---
+theme: minima
+show_excerpts: true
+
+# Jekyll should not try to build the Java coursework
+exclude:
+  - "*.java"
+  - "*.class"
