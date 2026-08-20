@@ -80,17 +80,21 @@ Use the College Board / textbook style students are graded on:
 One entry per class day in `docs/_posts/`, named
 `YYYY-MM-DD-day-NN-topic.md`.
 
-Writing an entry:
+**`docs/POST-TEMPLATE.md` defines the required structure for every entry.
+Read it before writing one.** Day 1 is the reference implementation; match its
+depth and shape.
 
-- Cover **every** concept the lesson touched, including basics. Completeness
-  over brevity; the "obvious" material is what students actually miss.
-- Source material is the assignment prompt plus the `.java` files written that
+Non-negotiables:
+
+- The page must teach the whole lesson on its own, to a classmate who missed
+  class. Completeness over brevity. Never skip a concept for being basic.
+- A line-by-line walkthrough of the day's project, tracing runtime state
+  statement by statement, is the centerpiece.
+- A debugging log of errors actually hit, including how to read each error
+  message.
+- Compile and run every code block before publishing. Never guess at output.
+- Source material is the assignment prompt plus the `.java` files from that
   day. Ask about anything not inferable from the code.
-- Always include a debugging section for errors actually hit, with how to read
-  the error message. That section ages the best.
-- End with a vocabulary table and check-yourself questions with collapsible
-  answers.
-- Write for a classmate who missed class.
 
 `docs/README.md` holds the working agreement splitting content (Claude) from
 presentation (Codex). Respect those lanes.
