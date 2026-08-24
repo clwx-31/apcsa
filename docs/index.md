@@ -30,6 +30,17 @@ top to bottom. It assumes nothing.
 | Escape sequences `\n` `\t` `\"` `\\` `\'` | Day 1, Part 6 |
 | Comments | Day 1, Part 7 |
 | Reading `ClassNotFoundException` | Day 1, Part 10 |
+| Variables and why to use them | Day 2, Part 1 |
+| Data types: `int`, `double`, `boolean` | Day 2, Part 2 |
+| Declare vs. initialize vs. assign | Day 2, Part 3 |
+| Naming rules and `camelCase` | Day 2, Part 4 |
+| Arithmetic operators `+ - * / %` | Day 2, Part 5 |
+| Integer division and truncation | Day 2, Part 6 |
+| Modulus `%` | Day 2, Part 7 |
+| Operator precedence | Day 2, Part 8 |
+| Mixing types and casting | Day 2, Part 9 |
+| Compound assignment, `++` and `--` | Day 2, Part 10 |
+| String concatenation with `+` | Day 2, Part 11 |
 
 ## How each post is laid out
 
