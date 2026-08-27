@@ -16,6 +16,17 @@ code does but why each piece is there.
 New to the course? Read [Day 1]({{ site.baseurl }}/notes/2026/08/20/day-01-output-and-escape-sequences.html)
 top to bottom. It assumes nothing.
 
+Working on the first graded assignment? Go to
+[Project 1 — Number Riddle]({{ site.baseurl }}/projects/2026/08/27/project-01-number-riddle.html).
+It has the full process, the requirement checklist, a complete worked example,
+and the exact compiler errors you are likely to hit.
+
+## Projects
+
+| Project | Due | Write-up |
+|---|---|---|
+| Project 1 — Number Riddle | Aug 31, 2026 | [Process, worked example, and debugging log]({{ site.baseurl }}/projects/2026/08/27/project-01-number-riddle.html) |
+
 ## Concepts so far
 
 | Concept | Where |
@@ -41,6 +52,14 @@ top to bottom. It assumes nothing.
 | Mixing types and casting | Day 2, Part 9 |
 | Compound assignment, `++` and `--` | Day 2, Part 10 |
 | String concatenation with `+` | Day 2, Part 11 |
+| Widening `int` → `double` | Project 1, Part 3 |
+| Narrowing `double` → `int` and truncation | Project 1, Part 4 |
+| Compound assignment as four riddle steps | Project 1, Part 5 |
+| The hidden cast inside `*=` | Project 1, Part 6 |
+| Choosing test cases and edge cases | Project 1, Part 11 |
+| Reading `possible lossy conversion` | Project 1, Part 10 |
+| Reading `';' expected` and `cannot find symbol` | Project 1, Part 10 |
+| Tracing variable state by hand | Project 1, Part 9 |
 
 ## How each post is laid out
 
