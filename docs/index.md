@@ -16,8 +16,8 @@ code does but why each piece is there.
 New to the course? Read [Day 1]({{ site.baseurl }}/notes/2026/08/20/day-01-output-and-escape-sequences.html)
 top to bottom. It assumes nothing.
 
-Working on the first graded assignment? Go to
-[Project 1 — Number Riddle]({{ site.baseurl }}/projects/2026/08/27/project-01-number-riddle.html).
+Working on the first graded assignment? Open the **Number Riddle Project**
+tab at the top of the page, or go [straight to it]({{ site.baseurl }}/number-riddle/).
 It has the full process, the requirement checklist, a complete worked example,
 and the exact compiler errors you are likely to hit.
 
@@ -25,7 +25,7 @@ and the exact compiler errors you are likely to hit.
 
 | Project | Due | Write-up |
 |---|---|---|
-| Project 1 — Number Riddle | Aug 31, 2026 | [Process, worked example, and debugging log]({{ site.baseurl }}/projects/2026/08/27/project-01-number-riddle.html) |
+| Number Riddle | Aug 31, 2026 | [Process, worked example, and debugging log]({{ site.baseurl }}/number-riddle/) |
 
 ## Concepts so far
 

@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Project 1 — Number Riddle"
-date: 2026-08-27
-categories: [projects]
-tags: [project, compound-assignment, casting, int, double, testing]
+layout: page
+title: "Number Riddle Project"
+permalink: /number-riddle/
 ---
 
 Project 1 asks you to write a program that demonstrates a number trick: *choose

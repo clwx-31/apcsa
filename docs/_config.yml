@@ -7,6 +7,10 @@ lang: en
 theme: minima
 show_excerpts: true
 
+# Nav tabs in the site header, in order
+header_pages:
+  - number-riddle.md
+
 # Jekyll should not try to build the Java coursework
 exclude:
   - "*.java"
